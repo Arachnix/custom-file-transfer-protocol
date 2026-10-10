@@ -1,0 +1,5 @@
+# CFTP - Custom Application Layer File Transfer Protocol over TCP
+# Core protocol, client, server, framing, and tests use standard library only:
+# - socket, threading, hashlib, pathlib, argparse, logging, unittest, time, sys, os
+#
+# No external runtime dependencies required for Python 3.10+

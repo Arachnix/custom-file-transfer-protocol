@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Testing & Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# CFTP Runtime Directories
+uploads/*
+!uploads/README.md
+downloads/*
+!downloads/README.md
+captures/*
+!captures/README.md
+
+# OS specific
+Thumbs.db
+.DS_Store
